@@ -8,7 +8,7 @@ disease classification using the EEG-GCNN architecture introduced in:
     Electroencephalogram-based Neurological Disease Diagnosis using a
     Domain-guided Graph Convolutional Neural Network.
     *Machine Learning for Health (ML4H) workshop, NeurIPS 2020*.
-    https://arxiv.org/abs/2011.10432
+    https://proceedings.mlr.press/v136/wagh20a.html
 
 Two model variants are provided:
 
